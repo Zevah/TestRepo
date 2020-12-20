@@ -1,1 +1,2 @@
-'This is a story, about a family' 
+'This is a story, about a family'
+'C'est une histoire sur une famille'
